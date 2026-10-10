@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "purpose": "one-time machine delivery bootstrap only",
+  "files": {
+    "bootstrap.py": {
+      "sha256": "df93e2739e75a746f585c961aa68d96b5e9926d594155bcad2b17337e53af201",
+      "bytes": 4900
+    },
+    "delivery.py": {
+      "sha256": "a84b66070ef4fd09daa48899a8c195943765ac3e3747af8f9394a859716ddbd0",
+      "bytes": 6356
+    },
+    "delivery_operator.py": {
+      "sha256": "f775c68c720af3afc8edc791f7b6d27638840108aaa6b99d199bac3764a4d083",
+      "bytes": 3088
+    }
+  },
+  "production_artifact_included": false,
+  "credentials_included": false,
+  "requires_independent_hash_approval": true
+}
