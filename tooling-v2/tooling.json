@@ -1,0 +1,13 @@
+{
+  "schema": "friday-delivery-tooling/2",
+  "files": {
+    "delivery.py": {
+      "sha256": "a98cee591a0dcd145765fbf673fdc20febda49014d425d7af231a50025181317",
+      "bytes": 12108
+    },
+    "delivery_operator.py": {
+      "sha256": "03adf98c2e0664f781ea636ea24d9fe13e95e0c13557bf1b28f48672a0f02bbb",
+      "bytes": 11078
+    }
+  }
+}
