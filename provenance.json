@@ -3,8 +3,13 @@
   "purpose": "one-time machine delivery bootstrap only",
   "files": {
     "bootstrap.py": {
-      "sha256": "df93e2739e75a746f585c961aa68d96b5e9926d594155bcad2b17337e53af201",
-      "bytes": 4900
+      "sha256": "6bdb45279ddb155c72de06b4977c8418c6c5620ecbe4e178393e33ca2b315bbe",
+      "bytes": 34545,
+      "source_repository": "vhwheeler/msf-counter-bot",
+      "source_checkpoint": "c6581d1e8d7c9fbfecdebe09b5026248de2611b5",
+      "source_path": "tools/production_delivery/bootstrap.py",
+      "independent_review": "Codex PASS on c6581d1e8d7c9fbfecdebe09b5026248de2611b5",
+      "purpose": "production delivery bootstrap v2 (supersedes v1 df93e273... published at 757fe79)"
     },
     "delivery.py": {
       "sha256": "a84b66070ef4fd09daa48899a8c195943765ac3e3747af8f9394a859716ddbd0",
