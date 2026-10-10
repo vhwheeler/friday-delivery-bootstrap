@@ -13,6 +13,15 @@
     "delivery_operator.py": {
       "sha256": "f775c68c720af3afc8edc791f7b6d27638840108aaa6b99d199bac3764a4d083",
       "bytes": 3088
+    },
+    "tmp_evidence_links.py": {
+      "sha256": "fbfea58b94926b75bb05e992e85d86b60eff79a6f3c08107e3adb68a34d8be16",
+      "bytes": 32624,
+      "source_repository": "vhwheeler/msf-counter-bot",
+      "source_checkpoint": "c6581d1e8d7c9fbfecdebe09b5026248de2611b5",
+      "source_path": "tools/production_delivery/tmp_evidence_links.py",
+      "independent_review": "Codex PASS on c6581d1e8d7c9fbfecdebe09b5026248de2611b5",
+      "purpose": "one-time evidence preservation/quarantine helper (Step A preserve; Step B separately authorized)"
     }
   },
   "production_artifact_included": false,
